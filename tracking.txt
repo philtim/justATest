@@ -1,3 +1,3 @@
 We started from main branch
-and introduced a change in feature-1 branch
+and introduced a change in main branch
 asdasdasdsad
